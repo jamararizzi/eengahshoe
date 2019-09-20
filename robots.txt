@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gohkahbeow.shabbatcon.com/sitemap.xml
